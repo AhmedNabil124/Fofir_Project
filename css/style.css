@@ -852,7 +852,7 @@ footer .box p span{
 @media (max-width: 766px) {
   .portfolio .container {
     width: 80%;
-    margin: 0 0 0 70px;
+    margin: 0 0 0 48px;
   }
   .portfolio .box-img {
     width: 100%;
@@ -928,7 +928,7 @@ footer .box p span{
 @media (max-width: 585px) {
   .testimonial .container {
     width: 90%;
-    margin: 0 0 0 30px;
+    margin: 0 0 0 12px;
   }
   .testimonial .container .box {
     width: 100%;
@@ -961,7 +961,7 @@ footer .box p span{
 @media (max-width: 767px) {
   .blog .container {
     width: 90%;
-    margin: 0 0 0 15px;
+    margin: 0 0 0 -2px;
   }
   .blog .box {
     width: 100%;
